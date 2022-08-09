@@ -18,3 +18,5 @@ def browser(request):
     #варианты строки для запуска в консоли: 
     #pytest -s -v --language=fr test_items.py
     #pytest -s -v --language=es test_items.py
+    #pytest -s -v --language=en test_items.py
+    #pytest -s -v --language=ru test_items.py
